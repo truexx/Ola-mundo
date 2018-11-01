@@ -1,0 +1,6 @@
+echo "# Ola-mundo" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git remoto add origem https://github.com/truexx/Ola-mundo.git
+ git push -u mestre de origem
